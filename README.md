@@ -1,13 +1,4 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: e9402fbbdd875a4359af4b0210d1baa1_e8f9865bae8e11f18f50525400aeaaa3
-    ReservedCode1: MUJ2L1gdy0bfxUfpeB/uPfODubg2p157Mcr4wDsjD1mWJE+03Hs58HPToSO5ddPfY1ggVQGMRpXnaA3pYUFjCRjYQoHLfGgsvh8xucygaRaxBeXR3LuqbeSrziYp6cYkAc0q8/HkR2/Ots9GCcSR+DraOQOG0aWfJFvMzqZWcrOohOe5XJBkkCmo8rU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: e9402fbbdd875a4359af4b0210d1baa1_e8f9865bae8e11f18f50525400aeaaa3
-    ReservedCode2: MUJ2L1gdy0bfxUfpeB/uPfODubg2p157Mcr4wDsjD1mWJE+03Hs58HPToSO5ddPfY1ggVQGMRpXnaA3pYUFjCRjYQoHLfGgsvh8xucygaRaxBeXR3LuqbeSrziYp6cYkAc0q8/HkR2/Ots9GCcSR+DraOQOG0aWfJFvMzqZWcrOohOe5XJBkkCmo8rU=
----
+
 
 # dev-toolkit
 
