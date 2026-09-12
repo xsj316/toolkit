@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# PyInstaller 中间产物（保留 dist 中的 exe 交付物）
+build/
+*.spec
